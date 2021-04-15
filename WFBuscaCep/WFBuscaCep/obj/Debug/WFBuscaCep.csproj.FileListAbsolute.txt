@@ -1,0 +1,33 @@
+D:\OneDrive - Etec Centro Paula Souza\000. ETEC\Aulas\2020\DS\WFBuscaCep\WFBuscaCep\bin\Debug\WFBuscaCep.exe.config
+D:\OneDrive - Etec Centro Paula Souza\000. ETEC\Aulas\2020\DS\WFBuscaCep\WFBuscaCep\bin\Debug\WFBuscaCep.exe
+D:\OneDrive - Etec Centro Paula Souza\000. ETEC\Aulas\2020\DS\WFBuscaCep\WFBuscaCep\bin\Debug\WFBuscaCep.pdb
+D:\OneDrive - Etec Centro Paula Souza\000. ETEC\Aulas\2020\DS\WFBuscaCep\WFBuscaCep\obj\Debug\WFBuscaCep.csprojAssemblyReference.cache
+D:\OneDrive - Etec Centro Paula Souza\000. ETEC\Aulas\2020\DS\WFBuscaCep\WFBuscaCep\obj\Debug\WFBuscaCep.Form1.resources
+D:\OneDrive - Etec Centro Paula Souza\000. ETEC\Aulas\2020\DS\WFBuscaCep\WFBuscaCep\obj\Debug\WFBuscaCep.Properties.Resources.resources
+D:\OneDrive - Etec Centro Paula Souza\000. ETEC\Aulas\2020\DS\WFBuscaCep\WFBuscaCep\obj\Debug\WFBuscaCep.csproj.GenerateResource.cache
+D:\OneDrive - Etec Centro Paula Souza\000. ETEC\Aulas\2020\DS\WFBuscaCep\WFBuscaCep\obj\Debug\WFBuscaCep.csproj.CoreCompileInputs.cache
+D:\OneDrive - Etec Centro Paula Souza\000. ETEC\Aulas\2020\DS\WFBuscaCep\WFBuscaCep\obj\Debug\WFBuscaCep.exe
+D:\OneDrive - Etec Centro Paula Souza\000. ETEC\Aulas\2020\DS\WFBuscaCep\WFBuscaCep\obj\Debug\WFBuscaCep.pdb
+C:\Users\User\Downloads\WFBuscaCep\WFBuscaCep\WFBuscaCep\bin\Debug\WFBuscaCep.exe.config
+C:\Users\User\Downloads\WFBuscaCep\WFBuscaCep\WFBuscaCep\bin\Debug\WFBuscaCep.exe
+C:\Users\User\Downloads\WFBuscaCep\WFBuscaCep\WFBuscaCep\bin\Debug\WFBuscaCep.pdb
+C:\Users\User\Downloads\WFBuscaCep\WFBuscaCep\WFBuscaCep\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\WFBuscaCep\WFBuscaCep\WFBuscaCep\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Downloads\WFBuscaCep\WFBuscaCep\WFBuscaCep\bin\Debug\Refit.dll
+C:\Users\User\Downloads\WFBuscaCep\WFBuscaCep\WFBuscaCep\bin\Debug\System.Buffers.dll
+C:\Users\User\Downloads\WFBuscaCep\WFBuscaCep\WFBuscaCep\bin\Debug\System.Memory.dll
+C:\Users\User\Downloads\WFBuscaCep\WFBuscaCep\WFBuscaCep\bin\Debug\System.Net.Http.Json.dll
+C:\Users\User\Downloads\WFBuscaCep\WFBuscaCep\WFBuscaCep\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\WFBuscaCep\WFBuscaCep\WFBuscaCep\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\WFBuscaCep\WFBuscaCep\WFBuscaCep\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Downloads\WFBuscaCep\WFBuscaCep\WFBuscaCep\bin\Debug\System.Text.Json.dll
+C:\Users\User\Downloads\WFBuscaCep\WFBuscaCep\WFBuscaCep\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\WFBuscaCep\WFBuscaCep\WFBuscaCep\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Downloads\WFBuscaCep\WFBuscaCep\WFBuscaCep\obj\Debug\WFBuscaCep.csprojAssemblyReference.cache
+C:\Users\User\Downloads\WFBuscaCep\WFBuscaCep\WFBuscaCep\obj\Debug\WFBuscaCep.Form1.resources
+C:\Users\User\Downloads\WFBuscaCep\WFBuscaCep\WFBuscaCep\obj\Debug\WFBuscaCep.Properties.Resources.resources
+C:\Users\User\Downloads\WFBuscaCep\WFBuscaCep\WFBuscaCep\obj\Debug\WFBuscaCep.csproj.GenerateResource.cache
+C:\Users\User\Downloads\WFBuscaCep\WFBuscaCep\WFBuscaCep\obj\Debug\WFBuscaCep.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\WFBuscaCep\WFBuscaCep\WFBuscaCep\obj\Debug\WFBuscaCep.csproj.CopyComplete
+C:\Users\User\Downloads\WFBuscaCep\WFBuscaCep\WFBuscaCep\obj\Debug\WFBuscaCep.exe
+C:\Users\User\Downloads\WFBuscaCep\WFBuscaCep\WFBuscaCep\obj\Debug\WFBuscaCep.pdb
